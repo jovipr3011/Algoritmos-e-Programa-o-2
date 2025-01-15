@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "login.h"
+#include "alunos.h"
 
 void adicionarAluno(Aluno alunos[], int *quantidade) {
     if (*quantidade < 100) {
