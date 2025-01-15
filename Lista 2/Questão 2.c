@@ -62,7 +62,7 @@ int main() {
                 printf("Saindo...\n");
                 break;
             default:
-                printf("Opção invslida.\n");
+                printf("Opção invalida.\n");
         }
     } while (opcao != 0);
 
